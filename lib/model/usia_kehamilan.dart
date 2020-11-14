@@ -1,6 +1,6 @@
-class TourismPlace {
-  String name;
-  String location;
+class UsiaKehamilan {
+  String usia;
+  String snippet;
   String description;
   String openDays;
   String openTime;
@@ -8,9 +8,9 @@ class TourismPlace {
   String imageAsset;
   List<String> imageUrls;
 
-  TourismPlace({
-    this.name,
-    this.location,
+  UsiaKehamilan({
+    this.usia,
+    this.snippet,
     this.description,
     this.openDays,
     this.openTime,
