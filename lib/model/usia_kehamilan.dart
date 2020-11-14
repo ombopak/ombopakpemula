@@ -6,7 +6,13 @@ class UsiaKehamilan {
   String openTime;
   String ticketPrice;
   String imageAsset;
+  String tag;
   List<String> imageUrls;
+  bool isExpanded;
+  List<String> symptomsTitle;
+  List<String> symptomsText;
+  List<String> checklistText;
+  List<String> checklistTitle;
 
   UsiaKehamilan({
     this.usia,
@@ -16,6 +22,12 @@ class UsiaKehamilan {
     this.openTime,
     this.ticketPrice,
     this.imageAsset,
+    this.tag,
     this.imageUrls,
+    this.isExpanded,
+    this.symptomsText,
+    this.checklistTitle,
+    this.checklistText,
+    this.symptomsTitle,
   });
 }
