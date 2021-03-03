@@ -1,6 +1,6 @@
 # dicoding_pemula
 
-A new Flutter project.
+Dibuat untuk menyelesaikan tugas submission dari dicoding.com
 
 ## Getting Started
 
